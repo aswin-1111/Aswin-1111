@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540" role="img" aria-label="Developer X-Ray for aswin-1111">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="744" height="524" rx="14" fill="url(#bg)" stroke="#b7c5d3" stroke-width="2"/>
+  <line x1="25" y1="60" x2="735" y2="60" stroke="#b7c5d3" opacity="0.7"/>
+  <g font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="22" fill="#ecf2f8" white-space="pre">
+    <text x="60" y="90">               DEVELOPER X-RAY</text>
+    <text x="60" y="118"></text>
+    <text x="60" y="146">  Repositories                           0</text>
+    <text x="60" y="174">  Public projects                        0</text>
+    <text x="60" y="202">  Languages                              0</text>
+    <text x="60" y="230">  Total commits                          0</text>
+    <text x="60" y="258">  Stars received                         0</text>
+    <text x="60" y="286"></text>
+    <text x="60" y="314">  Most used</text>
+    <text x="60" y="342">  No language data available</text>
+    <text x="60" y="370"></text>
+    <text x="60" y="398">  🔥 Current streak                  0 days</text>
+    <text x="60" y="426">  🧩 Most active project                N/A</text>
+  </g>
+</svg>

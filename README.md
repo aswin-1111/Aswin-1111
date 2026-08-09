@@ -31,13 +31,14 @@ I’m passionate about building **AI** and **full-stack** projects that solve pr
 - [**Linear-Regression**](https://github.com/aswin-1111/Linear-Regression) — ML project focused on regression fundamentals.
 - [**trw-eda**](https://github.com/aswin-1111/trw-eda) — Exploratory data analysis on public-opinion data.
 
-## 📊 GitHub Dashboard
+## 🩻 Developer X-Ray
+
+I generate a profile analytics card from my own GitHub data using a Python script:
+
+```bash
+python scripts/generate_card.py --username aswin-1111
+```
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aswin-1111&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin-1111&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=aswin-1111&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+  <img src="./assets/developer-xray.svg" alt="Developer X-Ray card" />
 </p>
