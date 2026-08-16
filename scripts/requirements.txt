@@ -1,0 +1,3 @@
+# scripts/xray.py uses only the Python standard library (urllib, json).
+# This file is kept for the GitHub Actions workflow's pip cache step
+# and as a place to pin dependencies if the script grows beyond stdlib.

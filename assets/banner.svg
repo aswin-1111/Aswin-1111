@@ -1,0 +1,28 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aswin Arunkumar banner">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="55%" stop-color="#3fb950"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="218" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="6" height="218" rx="3" fill="url(#edge)"/>
+
+  <!-- terminal dots -->
+  <circle cx="34" cy="34" r="5" fill="#ff5f56"/>
+  <circle cx="52" cy="34" r="5" fill="#ffbd2e"/>
+  <circle cx="70" cy="34" r="5" fill="#27c93f"/>
+  <text x="90" y="38" font-family="'Cascadia Code','Courier New',monospace" font-size="12" fill="#8b949e">~/aswin-1111</text>
+  <line x1="0" y1="54" x2="900" y2="54" stroke="#30363d"/>
+
+  <text x="40" y="102" font-family="'Cascadia Code','Courier New',monospace" font-size="15" fill="#3fb950">$ whoami</text>
+  <text x="40" y="136" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#c9d1d9">Aswin Arunkumar</text>
+  <text x="40" y="164" font-family="'Cascadia Code','Courier New',monospace" font-size="15" fill="#58a6ff">Grad Student &#183; AI / ML &amp; Full-Stack Developer</text>
+  <text x="40" y="192" font-family="'Cascadia Code','Courier New',monospace" font-size="12" fill="#8b949e">Building, training, and shipping &#8212; one commit at a time.</text>
+
+  <!-- decorative code brackets -->
+  <text x="820" y="150" font-family="'Cascadia Code','Courier New',monospace" font-size="90" fill="#58a6ff" fill-opacity="0.14" text-anchor="middle">&lt;/&gt;</text>
+  <circle cx="852" cy="70" r="4" fill="#a371f7" fill-opacity="0.8"/>
+</svg>
