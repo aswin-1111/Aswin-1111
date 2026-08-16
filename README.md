@@ -6,8 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aswin--arunkumar--qwerty-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/aswin-arunkumar-qwerty)
 [![Email](https://img.shields.io/badge/Email-aswinak1111%40gmail.com-3fb950?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:aswinak1111@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=aswin-1111&label=Profile+Views&color=58a6ff&style=for-the-badge)
-
 </div>
 
 ## About me
